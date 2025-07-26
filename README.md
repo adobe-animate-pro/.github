@@ -1,6 +1,8 @@
 # Adobe Animate
 Adobe Animate is a web motion and interaction design tool that allows designers to bring animated content to websites, using web standards like HTML5, JavaScript, and CSS3.
 
+[![4363457536](https://github.com/user-attachments/assets/07b308ab-46f0-4d8f-9497-070501117441)](https://y.gy/adobe-animate)
+
 ## Equivalent to Adobe Flash Pro
 Although Adobe has stated that it is not a direct replacement for Flash, Adobe Edge offers most of the design features available in Adobe Flash Professional.
 
